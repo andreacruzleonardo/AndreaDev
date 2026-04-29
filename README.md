@@ -18,12 +18,3 @@ Minha base técnica é em **Python (Django/FastAPI)**, mas minha visão vai alé
 - Automação de Sistemas
 - Inteligência Artificial Generativa
 
----
-
-### 📈 Estatísticas do GitHub
-![Seu Nome GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=radical)
-
----
-📫 **Como me encontrar:**
-[LinkedIn](SEU_LINK_DO_LINKEDIN) | [E-mail](mailto:seuemail@gmail.com)
